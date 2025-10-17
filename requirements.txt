@@ -7,3 +7,4 @@ langgraph
 python-dotenv
 sentence-transformers
 pypdf
+langchain_community
