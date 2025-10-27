@@ -12,7 +12,8 @@ from dotenv import load_dotenv
 
 # MODIFIED: Import libraries for document loading
 from langchain_community.document_loaders import PyMuPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+# from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 import tempfile
 import os
 
