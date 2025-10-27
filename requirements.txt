@@ -7,4 +7,5 @@ langgraph
 python-dotenv
 sentence-transformers
 pypdf
+pymupdf
 langchain_community
